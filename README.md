@@ -1,2 +1,2 @@
 # devopsdemo-repo
-This repository devlop a devops application
+This repository devlop a devops application.
